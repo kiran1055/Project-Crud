@@ -1,0 +1,73 @@
+  body {
+      background-color: #f8f9fa;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .main {
+      padding: 40px 0;
+    }
+
+    .container-box {
+      background-color: #ffffff;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      padding: 30px;
+    }
+
+    .form-control {
+      border-radius: 20px;
+      font-size: 16px;
+      width: 190%;
+    }
+
+    table {
+      margin-top: 20px;
+    }
+
+    table th {
+      background-color: #343a40;
+      color: #ffffff;
+      text-align: center;
+    }
+
+    table td {
+      text-align: center;
+      vertical-align: middle;
+      border: 5px solid black;
+    }
+
+    .btn-link {
+      padding: 0;
+    }
+
+    a.btn-update {
+      color:whitesmoke;
+      background-color:green;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    a.btn-delete {
+      color:whitesmoke;
+      background-color:red;
+      text-decoration: none;
+      font-weight: bold;
+      
+    }
+
+    a.btn-update:hover, a.btn-delete:hover {
+      text-decoration: underline;
+     
+    }
+    a{
+     font-weight: 500;
+      font-family: Georgia;
+      color:rgb(217, 216, 210);
+
+   }
+   
+    h3{
+      font-family: Garamond;
+    }
+    
+  
